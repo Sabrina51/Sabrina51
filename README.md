@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 My Status
 -------------
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Sabrina51&theme=radical&show_icons=true"/>
+  <img align="center" ha width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabrina51&theme=radical&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=6"/>
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=6"/>
 </a>
 
 
