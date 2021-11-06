@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 Application development intern.
+- 📚 System Analysis and Development student.
+- 🌱 Looking for professional and personal growth.
+- ⚡ Recently I learned how to drink coffee ☕. 
 -->
 
 ![banner](https://user-images.githubusercontent.com/76228258/140599972-6ea3f94e-f321-4250-bf71-b155a3cfe934.png)
@@ -21,7 +25,6 @@ Here are some ideas to get you started:
 - 🔭 Application development intern.
 - 📚 System Analysis and Development student.
 - 🌱 Looking for professional and personal growth.
-- 😄 She/Her.
 - ⚡ Recently I learned how to drink coffee ☕. 
 
 My Status
