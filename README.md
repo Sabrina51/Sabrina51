@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![banner](https://user-images.githubusercontent.com/76228258/140597613-47dff1ee-df63-49d4-b12d-f3c41781e5c5.png)
+![banner](![banner (1)](https://user-images.githubusercontent.com/76228258/140599972-6ea3f94e-f321-4250-bf71-b155a3cfe934.png))
 
 - 🔭 I’m application development intern.
 - 📚 I’m studant of System Analysis and Development.
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 My Status
 -------------
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Sabrina51">
   <img align="center" ha width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabrina51&theme=radical&show_icons=true"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Sabrina51">
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=6"/>
 </a>
 
