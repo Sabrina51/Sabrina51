@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![banner](![banner (1)](https://user-images.githubusercontent.com/76228258/140599972-6ea3f94e-f321-4250-bf71-b155a3cfe934.png))
+![banner](https://user-images.githubusercontent.com/76228258/140599972-6ea3f94e-f321-4250-bf71-b155a3cfe934.png)
 
 - 🔭 I’m application development intern.
 - 📚 I’m studant of System Analysis and Development.
