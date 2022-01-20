@@ -45,4 +45,5 @@ Learning
   <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/> </a>
   <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+  <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="java" width="30" height="30"/> </a>
 </p>
