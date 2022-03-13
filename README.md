@@ -31,7 +31,7 @@ My Status
   <img align="center" ha width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabrina51&theme=radical&show_icons=true"/>
 </a>
 <a href="https://github.com/Sabrina51">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=8"/>
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=10"/>
 </a>
 
 
