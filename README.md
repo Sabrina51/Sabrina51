@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 
 My Status
 -------------
+<a href="https://github.com/Sabrina51">
+  <img align="center" ha width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabrina51&theme=radical&show_icons=true"/>
+</a>
+<a href="https://github.com/Sabrina51">
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina51&layout=compact&theme=radical&langs_count=10"/>
+</a>
+
+Learning
+----------------
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30"
